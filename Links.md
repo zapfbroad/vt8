@@ -25,3 +25,6 @@
 
 ## Micron NAND Flash Memory (S5 Antminer)
 - https://www.micron.com/-/media/documents/products/data-sheet/nand-flash/20-series/2gb_nand_m29b.pdf
+
+## Could not probe the EEPROM; something fundamentally wrong on the I2C bus.
+https://e2e.ti.com/support/processors/f/791/t/297989?AM335x-EEPROM-disable
