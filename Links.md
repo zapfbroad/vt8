@@ -2,7 +2,10 @@
 
 ----
 
+## Images
 - https://beagleboard.org/static/beaglebone/latest/README.htm
+
+## Debugging with Putty
 - https://www.dummies.com/computers/beaglebone/how-to-connect-the-beaglebone-black-via-serial-over-usb/
 
 ## Backup and Flashing
