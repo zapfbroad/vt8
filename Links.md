@@ -1,4 +1,5 @@
 ![BeaglePinout](http://www.toptechboy.com/wp-content/uploads/2015/06/beaglebone-black-pinout.jpg)
+![BeagleSerialPins](https://www.dummies.com/wp-content/uploads/466809.image1.jpg)
 
 ----
 
