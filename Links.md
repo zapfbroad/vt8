@@ -6,8 +6,11 @@
 ## Images
 - https://beagleboard.org/static/beaglebone/latest/README.htm
 
-## Debugging with Putty
+## Debugging Putty
 - https://www.dummies.com/computers/beaglebone/how-to-connect-the-beaglebone-black-via-serial-over-usb/
+
+### JTAG
+- https://www.twosixlabs.com/running-a-baremetal-beaglebone-black-part-1/
 
 ## Backup and Flashing
 - https://elinux.org/BeagleBone_Black_Extracting_eMMC_contents
