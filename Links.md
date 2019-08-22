@@ -5,6 +5,9 @@
 - https://beagleboard.org/static/beaglebone/latest/README.htm
 - https://www.dummies.com/computers/beaglebone/how-to-connect-the-beaglebone-black-via-serial-over-usb/
 - https://elinux.org/BeagleBone_Black_Extracting_eMMC_contents
+
+## Flashing
+- https://elinux.org/Beagleboard:Updating_The_Software#Flashing_the_eMMC
 - https://makezine.com/projects/beaglebone-black-update-to-debian-for-windows/
 - https://www.dummies.com/computers/beaglebone/how-to-flash-the-beagleboards-onboard-emmc/
 
