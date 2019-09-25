@@ -28,3 +28,9 @@
 
 ## Could not probe the EEPROM; something fundamentally wrong on the I2C bus.
 https://e2e.ti.com/support/processors/f/791/t/297989?AM335x-EEPROM-disable
+
+## Power quick flahs - Dead from bad probing
+https://www.element14.com/community/thread/41564/l/element14-branded-beaglebone-black-wont-power-on?displayFullThread=true
+
+## NAND reading with arduino
+https://hackaday.com/2017/03/10/arduino-into-nand-reader/
