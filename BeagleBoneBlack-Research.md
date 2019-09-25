@@ -34,3 +34,4 @@ https://www.element14.com/community/thread/41564/l/element14-branded-beaglebone-
 
 ## NAND reading with arduino
 https://hackaday.com/2017/03/10/arduino-into-nand-reader/
+https://www.j-michel.org/blog/2014/05/27/from-nand-chip-to-files
