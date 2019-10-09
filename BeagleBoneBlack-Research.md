@@ -1,5 +1,5 @@
 ![BeaglePinout](http://www.toptechboy.com/wp-content/uploads/2015/06/beaglebone-black-pinout.jpg)
-![BeagleSerialPins-LED Meanings](https://user-images.githubusercontent.com/11083514/66526616-e3ff9180-eae8-11e9-8345-da0a3a8d538f.png)
+![BeagleSerialPins-LED Meanings](https://user-images.githubusercontent.com/11083514/66526671-101b1280-eae9-11e9-8c67-2cf809487216.png)
 ![Power Jack](https://cdn.shopify.com/s/files/1/0176/3274/files/7_7f3d668e-3ce2-4d64-9422-c9ff2d7f1c48_1024x1024.jpg?v=1561718277)
 ![Flashing-a-Beagle](https://user-images.githubusercontent.com/11083514/66526348-de557c00-eae7-11e9-8a09-fd04313f0c70.png)
 
