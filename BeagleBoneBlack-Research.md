@@ -1,4 +1,4 @@
-<p align="center">![BeaglePinout](http://www.toptechboy.com/wp-content/uploads/2015/06/beaglebone-black-pinout.jpg)</p>
+![BeaglePinout](http://www.toptechboy.com/wp-content/uploads/2015/06/beaglebone-black-pinout.jpg)
 ![BeagleSerialPins](https://elinux.org/images/3/34/CBB-TTL-232_PinDiagram.jpg)
 ![Power Jack](https://cdn.shopify.com/s/files/1/0176/3274/files/7_7f3d668e-3ce2-4d64-9422-c9ff2d7f1c48_1024x1024.jpg?v=1561718277)
 ![LED Meanings](https://user-images.githubusercontent.com/11083514/66526217-66875180-eae7-11e9-8fcf-135b373f5766.png)
