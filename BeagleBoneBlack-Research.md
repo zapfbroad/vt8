@@ -26,6 +26,9 @@
 - http://www.denx.de/wiki/U-Boot/WebHome
 - https://wiki.beyondlogic.org/index.php?title=BeagleBoneBlack_Upgrading_uBoot
 
+## About DTS files (Device Tree Blob - Flat Device Tree)
+http://www.informit.com/articles/article.aspx?p=1647051&seqNum=5
+
 ## Micron NAND Flash Memory (S5 Antminer)
 - https://www.micron.com/-/media/documents/products/data-sheet/nand-flash/20-series/2gb_nand_m29b.pdf
 
