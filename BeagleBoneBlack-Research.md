@@ -21,6 +21,9 @@
 - https://makezine.com/projects/beaglebone-black-update-to-debian-for-windows/
 - https://www.dummies.com/computers/beaglebone/how-to-flash-the-beagleboards-onboard-emmc/
 
+## Resetting the root password
+- http://mmmsoftware.blogspot.com/2014/01/recovering-root-password-on-beaglebone.html
+
 ## Bootloader
 - http://beagleboard.org/project/U-Boot+%28V1%29/
 - http://www.denx.de/wiki/U-Boot/WebHome
