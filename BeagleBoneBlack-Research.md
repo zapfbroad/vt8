@@ -5,6 +5,8 @@
 
 
 ----
+## Beagle Reference Manual
+- https://github.com/beagleboard/beaglebone-black/wiki/System-Reference-Manual
 
 ## Images
 - https://beagleboard.org/static/beaglebone/latest/README.htm
