@@ -2,6 +2,8 @@
 ![BeagleSerialPins-LED Meanings](https://user-images.githubusercontent.com/11083514/66526671-101b1280-eae9-11e9-8c67-2cf809487216.png)
 ![Power Jack](https://cdn.shopify.com/s/files/1/0176/3274/files/7_7f3d668e-3ce2-4d64-9422-c9ff2d7f1c48_1024x1024.jpg?v=1561718277)
 ![Flashing-a-Beagle](https://user-images.githubusercontent.com/11083514/66526348-de557c00-eae7-11e9-8a09-fd04313f0c70.png)
+
+### Online board view
 [![image](https://user-images.githubusercontent.com/11083514/93590290-26427b80-f9a6-11ea-860d-3e0fba7b4293.png)](https://upverter.com/eda/#designId=34ecff0e0b5c858f,tool=pcb)
 
 
